@@ -1,0 +1,22 @@
+{
+    "posts": [
+    {
+        "id": "1",
+        "title": "My first post",
+        "content": "Hello world! This is my first blog post.",
+        "author": "Alice",
+        "tags": ["intro"],
+        "createdAt": "2025-08-15T10:00:00.000Z",
+        "updatedAt": "2025-08-15T10:00:00.000Z"
+    },
+    {
+        "id": "2",
+        "title": "Second post",
+        "content": "Learning Node.js is fun!",
+        "author": "Bob",
+        "tags": ["nodejs", "backend"],
+        "createdAt": "2025-08-15T11:00:00.000Z",
+        "updatedAt": "2025-08-15T11:00:00.000Z"
+    }
+    ]
+}
