@@ -1,22 +1,107 @@
 {
-    "posts": [
+  "posts": [
     {
-        "id": "1",
-        "title": "My first post",
-        "content": "Hello world! This is my first blog post.",
-        "author": "Alice",
-        "tags": ["intro"],
-        "createdAt": "2025-08-15T10:00:00.000Z",
-        "updatedAt": "2025-08-15T10:00:00.000Z"
+      "id": 1,
+      "title": "Learning React - Updated",
+      "content": "React is a popular front-end library for building UIs.",
+      "author": "George",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Frontend"
+      ],
+      "createdAt": "2025-08-17T12:00:00.000Z",
+      "updatedAt": "2025-08-17T13:24:21.278Z"
     },
     {
-        "id": "2",
-        "title": "Second post",
-        "content": "Learning Node.js is fun!",
-        "author": "Bob",
-        "tags": ["nodejs", "backend"],
-        "createdAt": "2025-08-15T11:00:00.000Z",
-        "updatedAt": "2025-08-15T11:00:00.000Z"
+      "id": 2,
+      "title": "Getting Started with Node.js",
+      "content": "Node.js allows you to run JavaScript on the server side.",
+      "author": "Bob",
+      "tags": [
+        "Node.js",
+        "Backend",
+        "JavaScript"
+      ],
+      "createdAt": "2025-08-17T12:30:00.000Z",
+      "updatedAt": "2025-08-17T12:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Learning React - Updated",
+      "content": "React is a popular front-end library for building UIs.",
+      "author": "George",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Frontend"
+      ],
+      "createdAt": "2025-08-17T13:00:00.000Z",
+      "updatedAt": "2025-08-17T13:24:29.750Z"
+    },
+    {
+      "id": 4,
+      "title": "Understanding HTML",
+      "content": "HTML is the backbone of web pages, defining the structure of content.",
+      "author": "Dana",
+      "tags": [
+        "HTML",
+        "Frontend",
+        "Web"
+      ],
+      "createdAt": "2025-08-17T13:30:00.000Z",
+      "updatedAt": "2025-08-17T13:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "APIs with Express",
+      "content": "Express.js simplifies building backend APIs in Node.js.",
+      "author": "Eve",
+      "tags": [
+        "Express",
+        "Node.js",
+        "API"
+      ],
+      "createdAt": "2025-08-17T14:00:00.000Z",
+      "updatedAt": "2025-08-17T14:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Database Integration v2",
+      "content": "Learn how to connect your Node.js application to a database.",
+      "author": "Frank",
+      "tags": [
+        "Database",
+        "Node.js",
+        "Backend"
+      ],
+      "createdAt": "2025-08-17T14:30:00.000Z",
+      "updatedAt": "2025-08-17T16:56:49.037Z"
+    },
+    {
+      "title": "Learning React - UpdatedV2",
+      "content": "React is a popular front-end library for building UIs.",
+      "author": "George",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Frontend"
+      ],
+      "id": "6a26cddf-d1aa-4a03-b122-61671da00818",
+      "updatedAt": "2025-08-17T16:44:23.526Z"
+    },
+    {
+      "title": "test",
+      "content": "test if the function rally working",
+      "author": "haitam",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Frontend"
+      ],
+      "id": "4e707a6c-5785-40c3-9bf6-15fd1146a03d",
+      "createdAt": "2025-08-18T13:51:26.407Z",
+      "updatedAt": "2025-08-18T13:51:26.407Z"
     }
-    ]
+  ]
 }
